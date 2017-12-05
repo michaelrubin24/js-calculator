@@ -1,0 +1,16 @@
+
+input{
+  display:block;
+}
+
+button{
+  font-size:24px;
+  margin:7px 0 0 10px;
+}
+
+#result{
+  font-size:24px;
+  color:green;
+  font-weight:bold;
+  padding-left:20px;
+}
